@@ -1,1 +1,1 @@
-# shopify-react-graphql
+Shopify React App
